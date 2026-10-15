@@ -68,7 +68,7 @@ To use the tsgettoolbox in a project::
     df = tsgettoolbox.twc(48501, start_date="2015-11-04", end_date="2015-12-05")
     print(df.head())
 
-Refer to the API Documentation at `tsgettoolbox_twc_api`_.
+Refer to the API Documentation at `tsgettoolbox_api`_.
 
 Usage Summary - Command Line
 ----------------------------
@@ -83,6 +83,6 @@ Development is managed on bitbucket or github.
 https://bitbucket.org/timcera/tsgettoolbox_twc/overview.
 https://github.com/timcera/tsgettoolbox_twc
 
-.. _tsgettoolbox_documentation: https://timcera.bitbucket.io/tsgettoolbox/docs/index.html#tsgettoolbox-documentation_twc
-.. _tsgettoolbox_api: https://timcera.bitbucket.io/tsgettoolbox/docs/function_summary.html
-.. _tsgettoolbox_cli: https://timcera.bitbucket.io/tsgettoolbox/docs/command_line.html
+.. _tsgettoolbox_documentation: https://timcera.bitbucket.io/linked_pkg_dirs/tsgettoolbox/docs/index.html
+.. _tsgettoolbox_api: https://timcera.bitbucket.io/linked_pkg_dirs/tsgettoolbox/docs/function_summary.html
+.. _tsgettoolbox_cli: https://timcera.bitbucket.io/linked_pkg_dirs/tsgettoolbox/docs/command_line.html
